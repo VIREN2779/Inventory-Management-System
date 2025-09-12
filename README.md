@@ -1,4 +1,4 @@
-```markdown
+````markdown
 # 🛠️ CRUD Operations with Next.js 13 ▲ and MongoDB 🍃
 
 This project demonstrates how to implement full **CRUD (Create, Read, Update, Delete)** functionality using **Next.js 13 (App Router)** and **MongoDB**.
@@ -33,7 +33,7 @@ This project demonstrates how to implement full **CRUD (Create, Read, Update, De
 ```bash
 git clone https://github.com/yourusername/nextjs13-mongodb-crud.git
 cd nextjs13-mongodb-crud
-```
+````
 
 ### 2. Install Dependencies
 
@@ -47,11 +47,11 @@ yarn install
 
 Create a `.env.local` file in the root directory:
 
-```
-MONGODB_URI=<URI>
+```env
+MONGODB_URI=<YOUR_MONGODB_CONNECTION_STRING>
 ```
 
-> Replace with your actual MongoDB connection string.
+> Replace `<YOUR_MONGODB_CONNECTION_STRING>` with your actual MongoDB URI.
 
 ### 4. Run the Development Server
 
