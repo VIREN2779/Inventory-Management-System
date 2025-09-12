@@ -33,7 +33,7 @@ This project demonstrates how to implement full **CRUD (Create, Read, Update, De
 ```bash
 git clone https://github.com/yourusername/nextjs13-mongodb-crud.git
 cd nextjs13-mongodb-crud
-````
+```
 
 ### 2. Install Dependencies
 
