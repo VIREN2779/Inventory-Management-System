@@ -37,7 +37,7 @@ const DataTable: React.FC<DataTableProps> = ({ cols = [], rows = [] }) => {
                 {th}
               </th>
             ))}
-            <th className="px-4 py-2"></th>
+            <th className="px-4 py-2 text-left text-sm font-semibold text-gray-700">Action</th>
           </tr>
         </thead>
         <tbody>

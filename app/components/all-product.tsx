@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from "react";
 import DataTable from "@/app/components/dataTable";
 
-const cols = ["ID", "TITLE", "DESCRIPTION", "PRICE"];
+const cols = ["ID", "Title", "Description", "Price"];
 
 const AllProducts = () => {
   const [rows, setRows] = useState<any[]>([]);
