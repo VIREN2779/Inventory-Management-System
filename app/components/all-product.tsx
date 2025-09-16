@@ -5,7 +5,8 @@ import DataTable from "@/app/components/dataTable";
 const cols = ["ID", "TITLE", "DESCRIPTION", "PRICE"];
 
 const AllProducts = () => {
-  const [rows, setRows] = useState([]);
+  const [rows, setRows] = useState<any[]>([]);
+
   useEffect(() => {
     async function getAllProducts() {
       try {
