@@ -1,7 +1,7 @@
-import AddProduct from "@/app/components/add-product";
-import DeleteProduct from "@/app/components/delete-product";
-import EditProduct from "@/app/components/edit-product";
-import ViewProduct from "@/app/components/view-product";
+import AddProduct from "../../../app/components/add-product";
+import DeleteProduct from "../../../app/components/delete-product";
+import EditProduct from "../../../app/components/edit-product";
+import ViewProduct from "../../../app/components/view-product";
 
 const ActionProductId = ({ params }) => {
   const { action, id } = params;
