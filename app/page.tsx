@@ -5,10 +5,14 @@ import AllProducts from "./components/add-product";
 
 const Home = () => {
   return (
-    <div>
-      <div className="d-flex mb-2">
-        <Link className="btn btn-primary" href="../add/">
-          Add Product
+    <div className="p-6">
+      <div className="flex justify-between items-center mb-6">
+        <h1 className="text-2xl font-bold">Products</h1>
+        <Link
+          href="../add/"
+          className="rounded-lg bg-blue-600 px-4 py-2 text-white hover:bg-blue-700 transition"
+        >
+          ➕ Add Product
         </Link>
       </div>
       <div>
