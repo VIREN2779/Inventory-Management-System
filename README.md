@@ -1,9 +1,5 @@
-````markdown
-# 🛠️ CRUD Operations with Next.js 13 ▲ and MongoDB 🍃
-
-This project demonstrates how to implement full **CRUD (Create, Read, Update, Delete)** functionality using **Next.js 13 (App Router)** and **MongoDB**.
-
----
+````
+# 🛠️ Inventory Management System
 
 ## 🚀 Tech Stack
 
@@ -26,6 +22,7 @@ This project demonstrates how to implement full **CRUD (Create, Read, Update, De
 
 ---
 
+````
 ## ⚙️ Getting Started
 
 ### 1. Clone the Repository
@@ -68,14 +65,5 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 ## 🧪 Example Use Cases
 
 * To-do list manager
-* Simple contact manager
 * Notes app
 * Inventory management system
-
----
-
-## 🙋‍♂️ Acknowledgements
-
-* Next.js Team
-* MongoDB & Mongoose Docs
-* Open Source Community 💙
