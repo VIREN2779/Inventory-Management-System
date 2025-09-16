@@ -1,6 +1,6 @@
-````
 #### 🛠️ Inventory Management System
 
+````
 ## 🚀 Tech Stack
 
 - **Framework:** [Next.js 13](https://nextjs.org/docs)
@@ -21,7 +21,6 @@
 - 🔐 .env support for secure MongoDB connection strings
 
 ---
-
 ````
 ## ⚙️ Getting Started
 
