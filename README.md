@@ -1,5 +1,5 @@
 ````
-# 🛠️ Inventory Management System
+#### 🛠️ Inventory Management System
 
 ## 🚀 Tech Stack
 
@@ -28,8 +28,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/nextjs13-mongodb-crud.git
-cd nextjs13-mongodb-crud
+git clone https://github.com/VIREN2779/Inventory-Management-System.git
+cd Inventory-Management-System
 ````
 
 ### 2. Install Dependencies
@@ -42,7 +42,7 @@ yarn install
 
 ### 3. Setup Environment Variables
 
-Create a `.env.local` file in the root directory:
+Create a `.env` file in the root directory:
 
 ```env
 MONGODB_URI=<YOUR_MONGODB_CONNECTION_STRING>
