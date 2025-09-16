@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import Link from "next/link";
-import AllProducts from "./components/add-product";
+import AllProducts from "./components/all-product";
 
 const Home = () => {
   return (
