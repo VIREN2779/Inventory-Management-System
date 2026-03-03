@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@opennextjs/cloudflare": "^1.17.1",
     "dotenv": "^17.2.2",
     "mongoose": "^8.18.1",
     "next": "^15.5.3",
